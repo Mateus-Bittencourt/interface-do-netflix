@@ -105,4 +105,18 @@ header nav a:hover {
 
 .carrosel-filmes{
     margin-top: 5px;
+    
+}
+.rounded {
+    border-radius: 50%;
+}
+
+.carrosel-filmes h3 {
+    
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
 }
