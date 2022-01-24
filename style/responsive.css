@@ -21,14 +21,11 @@
     /* .filme-principal {
         height: 500px;
     } */
-    /* .botoes{
-        display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-        margin-bottom: 5px;
+    .filme-principal .botao {
+        width: 100%;
+        
+    }
 
-    } */
     .filme-principal .container {
         width: 80%;
     }
