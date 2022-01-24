@@ -1,0 +1,37 @@
+@media screen and (max-width:700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao{
+        margin-top: 5px;
+        width: 190px;
+        height: 60px;
+    }
+}
+
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:425px) {
+    /* .filme-principal {
+        height: 500px;
+    } */
+    /* .botoes{
+        display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+        margin-bottom: 5px;
+
+    } */
+    .filme-principal .container {
+        width: 80%;
+    }
+   
+
+}
